@@ -1,0 +1,2 @@
+# LowEarthOrbitMachineLearningSimilarityScore-with-Location
+A Low earth orbit for similarity of objects that find locations of debris upon different movements. Technologies used include a similarly score to run aginst longitude/latitude space data, (weaviate's rag), then using optimization to run it against a context score. I stored these al in a vector database and used its location for the embedding. 
